@@ -1,0 +1,30 @@
+@charset "UTF-8";
+@import url('https://fonts.googleapis.com/css2?family=Dela+Gothic+One&family=Inter&family=Roboto&display=swap');
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+
+
+.btn{
+    margin: auto;
+    position: relative;
+    top: 40px;
+    width: 100px;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+}
+
+#checkbox{
+    margin: auto;
+    position: relative;
+    top: 3px;
+}
+
+.label{
+    color: black;
+    font-size: small;
+}
+
