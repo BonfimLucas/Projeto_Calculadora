@@ -26,5 +26,7 @@
 .label{
     color: black;
     font-size: small;
+    user-select: none;
 }
+
 
