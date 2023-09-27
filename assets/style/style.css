@@ -85,12 +85,12 @@ ul{
     display: flex;
     margin: auto;
     position: relative;
-    top: 230px;
+    top: 220px;
     list-style: none;
     justify-content: center;
     gap: 30px;
 
-    transition-timing-function: ease;
+    transition: 2s;
 }
 
 img{
