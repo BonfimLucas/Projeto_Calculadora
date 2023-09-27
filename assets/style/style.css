@@ -90,6 +90,7 @@ ul{
     justify-content: center;
     gap: 30px;
 
+    transition-timing-function: ease;
 }
 
 img{
